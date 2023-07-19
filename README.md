@@ -3,8 +3,8 @@
 ![platform](https://img.shields.io/badge/platform-windows-blue)
 ![GitHub downloads all releases](https://img.shields.io/github/downloads/qwertzuiii/pybuild_v2/total)
 
-![GitHub issues](https://img.shields.io/github/issues/qwertzuiii/pybuild_2)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/qwertzuiii/pybuild_2)
+![GitHub issues](https://img.shields.io/github/issues/qwertzuiii/pybuild_v2)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/qwertzuiii/pybuild_v2)
 
 # PyBuild2
 
